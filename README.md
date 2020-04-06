@@ -368,28 +368,28 @@ List of 100 beginner friendly questions on codeforces
 <td><a href="http://codeforces.com/problemset/problem/124/A" target="_blank">The number of positions</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="">Code</a></td>
+<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/the-number-of-position.cpp">Code</a></td>
 </tr>
 <tr>
 <td>52</td>
 <td><a href="http://codeforces.com/problemset/problem/96/A" target="_blank">Football</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="">Code</a></td>
+<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/football-2.cpp">Code</a></td>
 </tr>
 <tr>
 <td>53</td>
 <td><a href="http://codeforces.com/problemset/problem/118/A" target="_blank">String Task</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="">Code</a></td>
+<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/string-task.cpp">Code</a></td>
 </tr>
 <tr>
 <td>54</td>
 <td><a href="http://codeforces.com/problemset/problem/221/A" target="_blank">Little Elephant and Function</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="">Code</a></td>
+<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/little-elephant-and-function.cpp">Code</a></td>
 </tr>
 <tr>
 <td>55</td>
