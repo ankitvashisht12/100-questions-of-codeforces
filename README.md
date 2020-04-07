@@ -403,21 +403,21 @@ List of 100 beginner friendly questions on codeforces
 <td><a href="http://codeforces.com/problemset/problem/230/A" target="_blank">Dragons</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="">Code</a></td>
+<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/dragons.cpp">Code</a></td>
 </tr>
 <tr>
 <td>57</td>
 <td><a href="http://codeforces.com/problemset/problem/337/A" target="_blank">Puzzles</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="">Code</a></td>
+<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/puzzles.cpp">Code</a></td>
 </tr>
 <tr>
 <td>58</td>
 <td><a href="http://codeforces.com/problemset/problem/58/A" target="_blank">Chat room</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="">Code</a></td>
+<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/chat-room.cpp">Code</a></td>
 </tr>
 <tr>
 <td>59</td>
@@ -431,28 +431,28 @@ List of 100 beginner friendly questions on codeforces
 <td><a href="http://codeforces.com/problemset/problem/445/A" target="_blank">DZY Loves Chessboard</a></td>
 <td>Codeforces</td>
 <td>3</td>
-<td><a href="">Code</a></td>
+<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/dzy-loves-chessboard.cpp">Code</a></td>
 </tr>
 <tr>
 <td>61</td>
 <td><a href="http://codeforces.com/problemset/problem/459/B" target="_blank">Pashmak and Flowers</a></td>
 <td>Codeforces</td>
 <td>3</td>
-<td><a href="">Code</a></td>
+<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/pashmak-and-flower.cpp">Code</a></td>
 </tr>
 <tr>
 <td>62</td>
 <td><a href="http://codeforces.com/problemset/problem/352/B" target="_blank">Jeff and Periods</a></td>
 <td>Codeforces</td>
 <td>3</td>
-<td><a href="">Code</a></td>
+<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/jeff-and-periods.cpp">Code</a></td>
 </tr>
 <tr>
 <td>63</td>
 <td><a href="http://codeforces.com/problemset/problem/276/B" target="_blank">Little Girl and Game</a></td>
 <td>Codeforces</td>
 <td>3</td>
-<td><a href="">Code</a></td>
+<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/little-girl-and-game.cpp">Code</a></td>
 </tr>
 <tr>
 <td>64</td>
