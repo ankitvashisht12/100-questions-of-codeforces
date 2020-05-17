@@ -1,4 +1,7 @@
 # 100-questions-of-codeforces
+
+*Note : Some Solution Links are not updated in the table*
+
 List of 100 beginner friendly questions on codeforces
 
 
